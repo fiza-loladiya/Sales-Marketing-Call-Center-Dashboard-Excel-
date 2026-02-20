@@ -4,7 +4,6 @@
 
 ![Dashboard Overview](Dashboard.png)
 
----
 
 ### Business Context
 A Sales & Marketing call center was handling a high volume of calls.  
@@ -59,7 +58,7 @@ This dashboard makes call center reporting faster and clearer by:
 - Revealing top reasons for call drop/failure to fix operational issues
 - Supporting monthly planning using trend analysis
 
----
+
 
 ## Key Metrics (from the dataset)
 - **Total Calls:** 200,000  
@@ -82,7 +81,7 @@ This dashboard makes call center reporting faster and clearer by:
 - Customer Hung Up
 - Agent Not Available
 
----
+
 
 ## Tools & Skills Used
 - Microsoft Excel (Dashboarding)
@@ -92,5 +91,4 @@ This dashboard makes call center reporting faster and clearer by:
 - Business Insights
 
 
-🔗 **LinkedIn Post:**https://www.linkedin.com/posts/fiza-loladiya_exceldashboard-dataanalytics-learningbydoing-activity-7373656336879730688-aQI9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW2cfIBCUwF9sy2fIUyftdvlyKkYgoBwmM
----
+

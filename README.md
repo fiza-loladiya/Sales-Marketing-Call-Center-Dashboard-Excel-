@@ -3,8 +3,6 @@
 ## Quick Preview
 
 ![Dashboard Overview](Dashboard.png)
-![Agent Performance](Images/agent_performance.png)
-
 
 ---
 

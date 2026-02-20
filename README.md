@@ -5,7 +5,6 @@
 ![Dashboard Overview](Images/dashboard_overview.png)
 ![Agent Performance](Images/agent_performance.png)
 
-🔗 **LinkedIn Post:** <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7373656149813870592" height="1192" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
 
@@ -96,4 +95,6 @@ This dashboard makes call center reporting faster and clearer by:
 - KPI Design & Reporting
 - Business Insights
 
+
+🔗 **LinkedIn Post:**https://www.linkedin.com/posts/fiza-loladiya_exceldashboard-dataanalytics-learningbydoing-activity-7373656336879730688-aQI9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW2cfIBCUwF9sy2fIUyftdvlyKkYgoBwmM
 ---

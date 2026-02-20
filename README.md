@@ -2,7 +2,7 @@
 
 ## Quick Preview
 
-![Dashboard Overview](Images/dashboard_overview.png)
+![Dashboard Overview](Dashboard.png)
 ![Agent Performance](Images/agent_performance.png)
 
 

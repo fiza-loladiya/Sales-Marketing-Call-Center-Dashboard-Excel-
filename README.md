@@ -6,8 +6,6 @@
 
 ---
 
-## STAR Method
-
 ### Business Context
 A Sales & Marketing call center was handling a high volume of calls.  
 The team needed a clear view of performance to understand:

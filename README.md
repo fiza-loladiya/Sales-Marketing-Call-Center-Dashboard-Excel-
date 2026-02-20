@@ -2,7 +2,7 @@
 
 ## Quick Preview
 
-![Dashboard Overview](DashboardOverview.png)
+![Dashboard Overview](Dashboard Overview.png)
 
 
 ### Business Context
